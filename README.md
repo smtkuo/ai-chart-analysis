@@ -1,8 +1,8 @@
-![ChartMaster AI Preview](preview.png)
+![AI Chart Analysis Preview](preview.png)
 
-# ChartMaster AI - Advanced Technical Analysis & Chart Pattern Recognition
+# AI Chart Analysis - Advanced Technical Analysis & Chart Pattern Recognition
 
-ChartMaster AI is a powerful AI-driven technical analysis tool that helps traders and analysts extract detailed insights from financial charts. Using advanced machine learning algorithms, it provides comprehensive analysis of chart patterns, trends, support/resistance levels, and potential trading scenarios.
+AI Chart Analysis is a powerful AI-driven technical analysis tool that helps traders and analysts extract detailed insights from financial charts. Using advanced machine learning algorithms, it provides comprehensive analysis of chart patterns, trends, support/resistance levels, and potential trading scenarios.
 
 ## Features
 
@@ -30,7 +30,7 @@ ChartMaster AI is a powerful AI-driven technical analysis tool that helps trader
 
 ## API Integration
 
-The project uses the ChartMaster AI API from RapidAPI. To use the application:
+The project uses the AI Chart Analysis API from RapidAPI. To use the application:
 1. Get your API key from: https://rapidapi.com/ltdbilgisam/api/chartmaster-ai-visual-stock-chart-technical-analysis
 2. Enter your API key in the application
 3. Upload a chart or provide an image URL
@@ -48,4 +48,4 @@ This tool is designed for educational purposes and provides:
 
 ## Disclaimer
 
-The analysis provided by ChartMaster AI is for educational purposes only and should not be considered as financial advice. Always conduct your own research and consult with financial professionals before making investment decisions.
+The analysis provided by AI Chart Analysis is for educational purposes only and should not be considered as financial advice. Always conduct your own research and consult with financial professionals before making investment decisions.
